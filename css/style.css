@@ -1,0 +1,151 @@
+
+body {
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px #aaa dashedx; 
+	font-family: sans-serif;
+  	-webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+
+
+header {
+	height: 40px;
+	background-color: black;
+	color: white;
+}
+
+p {
+	border: 1px dotted blackx;
+	margin: 17px 0px 0px 0px;
+	font-size: 16.5px;
+	font-family: tahoma;
+	line-height: 23px;
+}
+
+.wys {
+	text-align:center;
+}
+#kwad  {
+	font-size: 15px;
+}
+
+h1 {
+	font-size: 28px;
+	text-align:center;
+	padding: 4.6px 2px 1px 10px;
+
+}
+
+h2 {
+
+	color: white;
+	font-size: 17px;
+	background-color: black;
+	display:inline-block; 
+	padding: 3.5px 5.5px 1px 5.5px;
+	margin:  20px 0px 0px 0px;
+	line-height: 23px;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+h3 {
+	margin: 17px 0px -11px 0px;
+	font-size: 16.5px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(85, 26, 139);
+}
+
+a:focus {
+	color: rgb(85, 26, 139);
+  	text-decoration: none;
+}
+
+#zdjecie img {
+    height: 38px;
+    position:absolute;
+    width:100px;
+    height:100px;
+    right: 0px;
+	top: 83px;
+}
+
+#personal-details-edytor {
+	width: 300px;
+	float: left;
+}
+
+#dwie-kolumny {
+float: left;
+}
+
+.kol-1-b-zedytowane  {
+	width: 125.573px;
+float: left;
+padding: 0px 1% 0px 1%;
+}
+
+.kol-1-b-zedytowane p {
+	width: 125.573px;
+
+}
+
+
+.kol-2-b-zedytowane {
+	width: 433px ;
+	float: left;
+	padding: 0px 1% 0px 1%;
+
+}
+
+#pomniejszenie img{
+	width: 150px;
+	text-align: right;
+}
+
+#adnotacja1 p{
+	text-align:right;
+	font-size: 10px;
+	margin-top: 22px;
+	color: rgb(140, 140, 140);
+}
+
+#adnotacja2 p {
+	text-align:right;
+	font-size: 10px;
+	margin-top: 490px;
+	color: rgb(140, 140, 140);
+}
+
+#odstep {
+	height: 100px;
+}
+
+#desperacja {
+	width: 125px;
+}
+
+#other {
+	text-decoration: underline;
+	font-weight: bold;
+	color: white;
+	font-size: px;
+	background-color: black;
+	display:inline-block; 
+
+
+}
