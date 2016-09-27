@@ -1,0 +1,53 @@
+
+.wiersz {
+	margin-left: -1%;
+	margin-right: -1%;
+	clear: bothv;
+
+}
+
+.kol-1, .kol-2, .kol-11, .kol-12, .kol-1-a, .kol-2-a, .kol-1-b, .kol-2-b, .kol-12-2 {
+	padding	: 0px 1% 0px 1%;
+	border: 1px black dottedx; 
+	float: left;
+}
+
+.kol-1 {
+	width: 38.197%;
+}
+
+.kol-2 {
+	width: 61.803%;
+}
+
+.kol-11 {
+	width: 14.59%;
+}
+
+.kol-12 {
+	width: 23.607%;
+}
+
+.kol-1-a {
+	width: 27.615%;
+}
+
+.kol-2-a {
+	width: 72.385%;
+}
+
+.kol-1-b {
+	width: 17.391%;
+}
+
+.kol-2-b {
+	width: 82.609%;
+}
+
+.kol-12-2 {
+	width:85.41%;
+}
+
+.row {
+	clear: both;
+}

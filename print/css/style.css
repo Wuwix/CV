@@ -11,7 +11,7 @@ body {
 
 
 
-header,header a {
+header {
 	height: 40px;
 	background-color: black;
 	color: white;
@@ -79,7 +79,7 @@ a:focus {
     position: relative;
     width: 190px;
     left: 660px;
-    top: 85px;
+    top: 61px;
     margin-bottom: -999;
 }
 
@@ -119,19 +119,19 @@ padding: 0px 1% 0px 1%;
 #adnotacja1 p{
 	text-align:right;
 	font-size: 10px;
-	margin-top: 22px;
+	margin-top: 5px;
 	color: rgb(140, 140, 140);
 }
 
 #adnotacja2 p {
 	text-align:right;
 	font-size: 10px;
-	margin-top: 225px;
+	margin-top: 365px;
 	color: rgb(140, 140, 140);
 }
 
 #odstep {
-	height: 100px;
+	height: 75px;
 }
 
 #desperacja {
